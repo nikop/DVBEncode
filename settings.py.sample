@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+
+data_path = "D:\temp"
+
+unwanted_audios = ["dut"]

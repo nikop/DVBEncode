@@ -1,0 +1,15 @@
+/*.komodoproject
+/__pycache__
+/ProjectX
+/tsmuxer
+/avs2pipe
+/comskip
+/dgindex
+/dvdsub
+/ffmpeg
+/mplex
+/dvbencode/__pycache__
+/dvbencode/tools/__pycache__
+/settings.py
+/besplit
+/eac3to
